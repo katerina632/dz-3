@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+ <students>
+  <student>
+    <isActive>true</isActive>
+    <student_number>12345678</student_number>
+    <phone>095-000-00-00</phone>
+    <metadata>
+      <age>6</age>
+      <birthDate>2017-01-17</birthDate>
+      <primary_school>New Cool School</primary_school>     
+    </metadata>
+    <username/>
+    <givenName>Bob</givenName>
+    <familyName>Drew</familyName>
+    <email>bdrew@student.com</email>
+    <guardians>
+      <guardian>
+        <fullName>Ben Drew</fullName>
+        <isParent>true</isParent>
+        <relationship>father</relationship>
+      </guardian>
+      <guardian>
+        <fullName>Molly Boston</fullName>
+        <isParent>false</isParent>
+        <relationship>aunt</relationship>
+      </guardian>
+    </guardians>
+    <classes>
+      <class>Math</class>
+      <class>English</class>
+      <class>Musich</class>
+    </classes>
+  </student>
+ </students>
+</root>
